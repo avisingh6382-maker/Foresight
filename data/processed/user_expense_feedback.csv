@@ -1,0 +1,2 @@
+Note,Amount,Mode,DayOfWeek,Month,Predicted_Category,Corrected_Category,Source,Verified
+Monthly electricity bill,,,,,Food,Household,user_feedback,False

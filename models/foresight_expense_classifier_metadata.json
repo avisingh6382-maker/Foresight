@@ -1,0 +1,42 @@
+{
+    "model_name": "Linear SVM with Word and Character TF-IDF",
+    "version": "1.0",
+    "features": [
+        "Note",
+        "Amount",
+        "Mode",
+        "DayOfWeek",
+        "Month"
+    ],
+    "training_transactions": 1602,
+    "test_transactions": 394,
+    "supported_test_transactions": 392,
+    "unsupported_test_transactions": 2,
+    "accuracy": 0.8188775510204082,
+    "macro_f1": 0.5265680575377387,
+    "weighted_f1": 0.8357035483262525,
+    "categories": [
+        "Apparel",
+        "Beauty",
+        "Cook",
+        "Culture",
+        "Education",
+        "Family",
+        "Festivals",
+        "Food",
+        "Gift",
+        "Grooming",
+        "Health",
+        "Household",
+        "Other",
+        "Rent",
+        "Self-development",
+        "Social Life",
+        "Tourism",
+        "Transportation",
+        "garbage disposal",
+        "maid",
+        "subscription",
+        "water (jar /tanker)"
+    ]
+}

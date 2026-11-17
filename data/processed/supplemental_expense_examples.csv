@@ -1,0 +1,16 @@
+Note,Amount,Mode,DayOfWeek,Month,Category,Source,Is_Synthetic,Verified,Example_ID,Label_Reviewed,Review_Status
+Sample hotel accommodation booking,,,,,Tourism,synthetic,True,False,SUP_001,True,Label reviewed - synthetic
+Holiday resort accommodation booking,,,,,Tourism,synthetic,True,False,SUP_002,True,Label reviewed - synthetic
+Tourist attraction entry ticket,,,,,Tourism,synthetic,True,False,SUP_003,True,Label reviewed - synthetic
+Monthly house rent payment,,,,,Rent,synthetic,True,False,SUP_004,True,Label reviewed - synthetic
+Monthly apartment rental payment,,,,,Rent,synthetic,True,False,SUP_005,True,Label reviewed - synthetic
+Monthly payment to household cook,,,,,Cook,synthetic,True,False,SUP_006,True,Label reviewed - synthetic
+Payment for home cooking service,,,,,Cook,synthetic,True,False,SUP_007,True,Label reviewed - synthetic
+Haircut at barber shop,,,,,Grooming,synthetic,True,False,SUP_008,True,Label reviewed - synthetic
+Hair salon grooming service,,,,,Grooming,synthetic,True,False,SUP_009,True,Label reviewed - synthetic
+Classical music concert entry ticket,,,,,Culture,synthetic,True,False,SUP_010,True,Label reviewed - synthetic
+Art exhibition entry ticket,,,,,Culture,synthetic,True,False,SUP_011,True,Label reviewed - synthetic
+Personal development workshop fee,,,,,Self-development,synthetic,True,False,SUP_012,True,Label reviewed - synthetic
+Self improvement training course,,,,,Self-development,synthetic,True,False,SUP_013,True,Label reviewed - synthetic
+Contribution towards friends gathering,,,,,Social Life,synthetic,True,False,SUP_014,True,Label reviewed - synthetic
+Shared expense for social gathering,,,,,Social Life,synthetic,True,False,SUP_015,True,Label reviewed - synthetic
